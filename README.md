@@ -8,6 +8,6 @@ When the "start" push button connected to C.3 (pin 7) is pushed, the game sequen
 
 If the "start" push button is pressed again during the countdown sequence, the counter is reset to 9 and continues to count down from 9 to 0. 
 
-If the "Win" button is pressed during the countdown sequence, all movement of the arm is temporarily disabled and a victory tune plays.
+If the "win" button connected to C.6 (pin 4) is pressed during the countdown sequence, all movement of the arm is temporarily disabled and a victory tune plays.
 
 If the countdown reaches 0, all movement of the arm is temporarily disabled and a lose tune will be played. 
